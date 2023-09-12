@@ -9,3 +9,5 @@ function calc(number) {
         console.log(number);
     }
 }
+
+calc(75);
