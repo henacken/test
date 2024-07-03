@@ -8,3 +8,4 @@ function fibo(n: number) {
     return fibo(n-1) + fibo(n-2);
 }
 
+fibo(10);
